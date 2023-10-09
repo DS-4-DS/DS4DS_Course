@@ -13,6 +13,8 @@ This work is licensed under a
 
 # Course Content
 
+You can find the video lectures on [YouTube](https://www.youtube.com/@UPB_DS4DS-bu8ec/playlists).
+
 ## Section 01: Dynamical Modeling Fundamentals
 
 ## Section 02: Linear Model Identification
