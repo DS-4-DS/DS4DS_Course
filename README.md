@@ -49,3 +49,13 @@ Videos:
   * [Ordinary least squares: bias (DS4DS 2.05)](https://www.youtube.com/watch?v=hd9POUlZR-Q&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=5)
   * [Ordinary least squares: covariance (DS4DS 2.06)](https://www.youtube.com/watch?v=b_OSb7g5C40&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=6)
   * [Ordinary least squares: consistency (DS4DS 2.07)](https://www.youtube.com/watch?v=-3hS0ScYaaM&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=7)
+ 
+* Week 5:
+  * [Multicollinearity (DS4DS 2.08)](https://www.youtube.com/watch?v=YoG0IsghOhU&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=8)
+  * [Ridge regression (DS4DS 2.09)](https://www.youtube.com/watch?v=eevhvtuEyPY&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=9)
+  * [Weighted least squares: motivation & solution (DS4DS 2.10)](https://www.youtube.com/watch?v=cjWvy1iCEiE&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=10)
+  * [Weighted least squares: example (DS4DS 2.11)](https://www.youtube.com/watch?v=WGXFemrKiJ0&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=11)
+  * [Recursive least squares: derivation part 1/2 (DS4DS 2.12)](https://www.youtube.com/watch?v=SgUhJj1FvDE&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=12)
+  * [Recursive least squares: derivation part 2/2 (DS4DS 2.13)](https://www.youtube.com/watch?v=RVvlsHdXyyU&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=13)
+  * [Recursive least squares: exponential forgetting (DS4DS 2.14)](https://www.youtube.com/watch?v=4j1_Ux6_rOY&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=14)
+  * [Recursive least squares: example (DS4DS 2.15)](https://www.youtube.com/watch?v=M5QYofnx1dg&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=15)
