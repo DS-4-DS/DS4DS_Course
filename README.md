@@ -59,3 +59,13 @@ Videos:
   * [Recursive least squares: derivation part 2/2 (DS4DS 2.13)](https://www.youtube.com/watch?v=RVvlsHdXyyU&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=13)
   * [Recursive least squares: exponential forgetting (DS4DS 2.14)](https://www.youtube.com/watch?v=4j1_Ux6_rOY&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=14)
   * [Recursive least squares: example (DS4DS 2.15)](https://www.youtube.com/watch?v=M5QYofnx1dg&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=15)
+ 
+* Week 6:
+  * [Ordinary Least Squares for Dynamical Systems: Introduction (DS4DS 2.16)](https://www.youtube.com/watch?v=yuLsDQFusrI&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=16)
+  * [Ordinary Least Squares for Dynamical Systems: Example (DS4DS 2.17)](https://www.youtube.com/watch?v=6LitkQ2QTos&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=17)
+  * [Ordinary Least Squares for Dynamical Systems: Limitations (DS4DS 2.18)](https://www.youtube.com/watch?v=HIezurtcoJc&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=18)
+  * [Singular Value Decomposition: Motivation (DS4DS 2.19)](https://www.youtube.com/watch?v=8NAZZvM4cMY&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=19)
+  * [Singular Value Decomposition: Interpretation (DS4DS 2.20)](https://www.youtube.com/watch?v=LNDS__ucMmk&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=20)
+  * [Eigendecomposition of continuous and discrete-time dynamical systems (DS4DS 2.21)](https://www.youtube.com/watch?v=SA_hRTwZhHU&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=21)
+  * [Dynamic Mode Decomposition: Concept (DS4DS 2.22)](https://www.youtube.com/watch?v=-QWlSJGRzzk&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=22)
+  * [Dynamic Mode Decomposition: Efficient computation (DS4DS 2.23) ](https://www.youtube.com/watch?v=xzyQxCiEB7w&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=23)
