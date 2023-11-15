@@ -71,3 +71,14 @@ Videos:
   * [Eigendecomposition of continuous and discrete-time dynamical systems (DS4DS 2.21)](https://www.youtube.com/watch?v=SA_hRTwZhHU&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=21)
   * [Dynamic Mode Decomposition: Concept (DS4DS 2.22)](https://www.youtube.com/watch?v=-QWlSJGRzzk&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=22)
   * [Dynamic Mode Decomposition: Efficient computation (DS4DS 2.23) ](https://www.youtube.com/watch?v=xzyQxCiEB7w&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=23)
+
+## Section 03: Optimization for Machine Learning
+
+## Section 04: Nonlinear Model Identification
+
+## Section 05: Feature Engineering
+
+## Section 06: Model Selection
+
+## Section 07: Advanced Topics
+
