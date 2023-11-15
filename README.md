@@ -15,6 +15,8 @@ This work is licensed under a
 
 You can find the video lectures on [YouTube](https://www.youtube.com/@UPB_DS4DS-bu8ec/playlists).
 
+The associated code (in the form of Jupyter Notebooks) can be found in the "notebooks" folder.
+
 ## Section 01: Dynamical Modeling Fundamentals
 Videos:
 * Week 1:
