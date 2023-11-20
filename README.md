@@ -92,12 +92,12 @@ Videos:
 ## Section 07: Advanced Topics
 
 # Related literature
-* Data science / machine learning:
+* Data science and machine learning:
   * Y. S. Abu-Mostafa, M. Magdon-Ismail and H.-T. Lin. "Learning from data: A short course." AMLBook, 2012. ([URL](https://work.caltech.edu/telecourse))
   * S. L. Brunton and J. N. Kutz. "Data-Driven Science and Engineering." Cambridge University Press, 2019. ([DOI](https://doi.org/10.1017/9781108380690))
   * C. M. Bishop. "Pattern Recognition and Machine Learning." Springer, 2007. ([URL](https://link.springer.com/book/9780387310732))
     
-* Dynamical systems / System identification:
+* Dynamical systems and system identification:
   * R. Isermann and M. Münchhof. "Identification of Dynamic Systems." Springer, 2011. ([DOI](https://doi.org/10.1007/978-3-540-78879-9))
   * O. Nelles. "Nonlinear System Identification." Springer, 2001. ([DOI](https://doi.org/10.1007/978-3-030-47439-3))
 
