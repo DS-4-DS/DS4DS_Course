@@ -84,6 +84,8 @@ Videos:
   * [Gradient descent 2 (DS4DS 3.04)](https://www.youtube.com/watch?v=7asVgXqfkFo&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=4)
   * [Gradient descent 3 (DS4DS 3.05)](https://www.youtube.com/watch?v=4F6yFASvx1c&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=5)
   * [Gradient descent 4 (DS4DS 3.06)](https://www.youtube.com/watch?v=E2fCTUF9nYc&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=6)
+  * [The Armijo and Wolfe conditions (DS4DS 3.07)](https://www.youtube.com/watch?v=Jxh2kqVz6lk&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=7)
+  * [Stochastic gradient descent (DS4DS 3.08)](https://www.youtube.com/watch?v=iZ5rGdUcDRc&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=8)
 
 ## Section 04: Nonlinear Model Identification
 
