@@ -73,6 +73,13 @@ Videos:
   * [Dynamic Mode Decomposition: Efficient computation (DS4DS 2.23) ](https://www.youtube.com/watch?v=xzyQxCiEB7w&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=23)
 
 ## Section 03: Optimization for Machine Learning
+* Week 7:
+  * [Training nonlinear models (DS4DS 3.01)](https://www.youtube.com/watch?v=Yp7BWq5cJec&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7)
+  * [The hypothesis space (DS4DS 3.02)](https://www.youtube.com/watch?v=nEFZZfor8OY&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=2)
+  * [Gradient descent 1 (DS4DS 3.03)](https://www.youtube.com/watch?v=mZ0vn2cYxQc&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=3)
+  * [Gradient descent 2 (DS4DS 3.04)](https://www.youtube.com/watch?v=7asVgXqfkFo&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=4)
+  * [Gradient descent 3 (DS4DS 3.05)](https://www.youtube.com/watch?v=4F6yFASvx1c&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=5)
+  * [Gradient descent 4 (DS4DS 3.06)](https://www.youtube.com/watch?v=E2fCTUF9nYc&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=6)
 
 ## Section 04: Nonlinear Model Identification
 
