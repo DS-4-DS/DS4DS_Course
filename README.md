@@ -26,6 +26,7 @@ Videos:
   * [Spring-mass-damper as an autonomous state-space system example (DS4DS 1.04)](https://www.youtube.com/watch?v=D4yAvFUcENQ&list=PLg6FTHy3zJjxvWhKhME-R6z_WaX5MQ-dH&index=4)
   * [State stability of autonomous state-space systems (DS4DS 1.05)](https://www.youtube.com/watch?v=FWX_z3zTGss&list=PLg6FTHy3zJjxvWhKhME-R6z_WaX5MQ-dH&index=5)
   * [Nonlinear ODEs (1.06)](https://www.youtube.com/watch?v=WecRnf3vAZo&list=PLg6FTHy3zJjxvWhKhME-R6z_WaX5MQ-dH&index=6)
+
 * Week 2:
   * [Numerical solutions of ODEs 1 (DS4DS 1.07)](https://www.youtube.com/watch?v=XHarMmETHkE)
   * [Numerical solutions of ODEs 2 (DS4DS 1.08)](https://www.youtube.com/watch?v=ikOcwSOyiCI)
@@ -36,6 +37,7 @@ Videos:
   * [Observability 2 (DS4DS 1.13)](https://www.youtube.com/watch?v=A9Zc21IzLjA)
   * [Observability 3 (DS4DS 1.14)](https://www.youtube.com/watch?v=IKXNPHASATg)
   * [Discrete dynamical systems (DS4DS 1.15)](https://www.youtube.com/watch?v=Ew3y1SGlVQc)
+   
 * Week 3:
   * [Partial differential equations 1 (DS4DS 1.16)](https://www.youtube.com/watch?v=O0aNsfJ-peg)
   * [Partial differential equations 2 (DS4DS 1.17)](https://www.youtube.com/watch?v=_qM3NP4sgO8)
