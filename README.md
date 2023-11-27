@@ -86,6 +86,15 @@ Videos:
   * [Gradient descent 4 (DS4DS 3.06)](https://www.youtube.com/watch?v=E2fCTUF9nYc&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=6)
   * [The Armijo and Wolfe conditions (DS4DS 3.07)](https://www.youtube.com/watch?v=Jxh2kqVz6lk&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=7)
   * [Stochastic gradient descent (DS4DS 3.08)](https://www.youtube.com/watch?v=iZ5rGdUcDRc&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=8)
+ 
+* Week 8:
+  * [Momentum (DS4DS 3.09)](https://www.youtube.com/watch?v=NuFWEZYayUI&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=9)
+  * [Convergence rates (DS4DS 3.10)](https://www.youtube.com/watch?v=Ococ1-rrK9c&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=10)
+  * [Newton's method (DS4DS 3.11)](https://www.youtube.com/watch?v=7INmTFzPDsg&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=11)
+  * [Differentiation Techniques: Overview (DS4DS 3.12)](https://www.youtube.com/watch?v=hBEQbPkWrwk&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=12)
+  * [Symbolic Differentiation (DS4DS 3.13)](https://www.youtube.com/watch?v=aBxnOUGq2ug&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=13)
+  * [Algorithmic Differentiation: Forward mode (DS4DS 3.14)](https://www.youtube.com/watch?v=zQ9f6xpYEPw&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=14)
+  * [Algorithmic Differentiation: Backward mode (DS4DS 3.15)](https://www.youtube.com/watch?v=hg33342oeTA&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=15)
 
 ## Section 04: Nonlinear Model Identification
 
