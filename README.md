@@ -102,7 +102,9 @@ Videos:
 
 ## Section 06: Model Selection
 
-## Section 07: Advanced Topics
+## Section 07: Control
+
+## Section 08: Advanced Topics
 
 # Related literature
 * Data science and machine learning:
