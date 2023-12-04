@@ -95,6 +95,14 @@ Videos:
   * [Symbolic Differentiation (DS4DS 3.13)](https://www.youtube.com/watch?v=aBxnOUGq2ug&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=13)
   * [Algorithmic Differentiation: Forward mode (DS4DS 3.14)](https://www.youtube.com/watch?v=zQ9f6xpYEPw&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=14)
   * [Algorithmic Differentiation: Backward mode (DS4DS 3.15)](https://www.youtube.com/watch?v=hg33342oeTA&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=15)
+ 
+* Week 9:
+  * [Constrained optimization 1 (DS4DS 3.16)](https://www.youtube.com/watch?v=qQiVFvv2uiw&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=16)
+  * [Constrained optimization 2 (DS4DS 3.17)](https://www.youtube.com/watch?v=inqmExLG11c&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=17)
+  * [Constrained optimization 3 (DS4DS 3.18)](https://www.youtube.com/watch?v=yYuV-vBa7M8&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=18)
+  * [Penalty methods and Sequential Quadratic Programming (DS4DS 3.19)](https://www.youtube.com/watch?v=F21CocZHpQs&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=19)
+  * [The active set method 1 (DS4DS 3.20)](https://www.youtube.com/watch?v=cL5Djfu0pUY&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=20)
+  * [The active set method 2 (DS4DS 3.21)](https://www.youtube.com/watch?v=c4N0oKvlp5s&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=21)
 
 ## Section 04: Nonlinear Model Identification
 
