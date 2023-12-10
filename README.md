@@ -20,7 +20,6 @@ The associated code (in the form of Jupyter Notebooks) can be found in the "note
 References to related literature can be found at the end of this Readme file.
 
 ## Section 01: Dynamical Modeling Fundamentals
-Videos:
 * Week 1:
   * [Solution of scalar linear autonomous ODEs (DS4DS 1.01)](https://www.youtube.com/watch?v=48FVrkGrJkA&list=PLg6FTHy3zJjxvWhKhME-R6z_WaX5MQ-dH&index=1)
   * [Solution of vectorial linear autonomous ODEs (DS4DS 1.02)](https://www.youtube.com/watch?v=p_phobJmjCk&list=PLg6FTHy3zJjxvWhKhME-R6z_WaX5MQ-dH&index=2)
@@ -86,6 +85,23 @@ Videos:
   * [Gradient descent 4 (DS4DS 3.06)](https://www.youtube.com/watch?v=E2fCTUF9nYc&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=6)
   * [The Armijo and Wolfe conditions (DS4DS 3.07)](https://www.youtube.com/watch?v=Jxh2kqVz6lk&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=7)
   * [Stochastic gradient descent (DS4DS 3.08)](https://www.youtube.com/watch?v=iZ5rGdUcDRc&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=8)
+ 
+* Week 8:
+  * [Momentum (DS4DS 3.09)](https://www.youtube.com/watch?v=NuFWEZYayUI&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=9)
+  * [Convergence rates (DS4DS 3.10)](https://www.youtube.com/watch?v=Ococ1-rrK9c&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=10)
+  * [Newton's method (DS4DS 3.11)](https://www.youtube.com/watch?v=7INmTFzPDsg&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=11)
+  * [Differentiation Techniques: Overview (DS4DS 3.12)](https://www.youtube.com/watch?v=hBEQbPkWrwk&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=12)
+  * [Symbolic Differentiation (DS4DS 3.13)](https://www.youtube.com/watch?v=aBxnOUGq2ug&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=13)
+  * [Algorithmic Differentiation: Forward mode (DS4DS 3.14)](https://www.youtube.com/watch?v=zQ9f6xpYEPw&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=14)
+  * [Algorithmic Differentiation: Backward mode (DS4DS 3.15)](https://www.youtube.com/watch?v=hg33342oeTA&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=15)
+ 
+* Week 9:
+  * [Constrained optimization 1 (DS4DS 3.16)](https://www.youtube.com/watch?v=qQiVFvv2uiw&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=16)
+  * [Constrained optimization 2 (DS4DS 3.17)](https://www.youtube.com/watch?v=inqmExLG11c&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=17)
+  * [Constrained optimization 3 (DS4DS 3.18)](https://www.youtube.com/watch?v=yYuV-vBa7M8&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=18)
+  * [Penalty methods and Sequential Quadratic Programming (DS4DS 3.19)](https://www.youtube.com/watch?v=F21CocZHpQs&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=19)
+  * [The active set method 1 (DS4DS 3.20)](https://www.youtube.com/watch?v=cL5Djfu0pUY&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=20)
+  * [The active set method 2 (DS4DS 3.21)](https://www.youtube.com/watch?v=c4N0oKvlp5s&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=21)
 
 ## Section 04: Nonlinear Model Identification
 
@@ -93,13 +109,15 @@ Videos:
 
 ## Section 06: Model Selection
 
-## Section 07: Advanced Topics
+## Section 07: Control
+
+## Section 08: Advanced Topics
 
 # Related literature
 * Data science and machine learning:
   * Y. S. Abu-Mostafa, M. Magdon-Ismail and H.-T. Lin. "Learning from data: A short course." AMLBook, 2012. ([URL](https://work.caltech.edu/telecourse))
   * S. L. Brunton and J. N. Kutz. "Data-Driven Science and Engineering." Cambridge University Press, 2019. ([DOI](https://doi.org/10.1017/9781108380690))
-  * C. M. Bishop. "Pattern Recognition and Machine Learning." Springer, 2007. ([URL](https://link.springer.com/book/9780387310732))
+  * C. M. Bishop. "Pattern Recognition and Machine Learning." Springer, 2007. ([URL](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf))
     
 * Dynamical systems and system identification:
   * R. Isermann and M. Münchhof. "Identification of Dynamic Systems." Springer, 2011. ([DOI](https://doi.org/10.1007/978-3-540-78879-9))
