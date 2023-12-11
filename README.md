@@ -48,7 +48,7 @@ References to related literature can be found at the end of this Readme file.
 ## Section 02: Linear Model Identification
 * Week 4:
   * [Linear model identification: intro part 1/2 (DS4DS 2.01)](https://www.youtube.com/watch?v=oFVnPJbi7Tg&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=1)
-  * [Linear model identification: intro part 1/2 (DS4DS 2.02)](https://www.youtube.com/watch?v=H5bZ2to1ono&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=2)
+  * [Linear model identification: intro part 2/2 (DS4DS 2.02)](https://www.youtube.com/watch?v=H5bZ2to1ono&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=2)
   * [Linear least squares solution (DS4DS 2.03)](https://www.youtube.com/watch?v=1c1tMY0m3vE&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=3)
   * [Ordinary least squares: static example (DS4DS 2.04)](https://www.youtube.com/watch?v=Mm92nd9lkDc&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=4)
   * [Ordinary least squares: bias (DS4DS 2.05)](https://www.youtube.com/watch?v=hd9POUlZR-Q&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=5)
