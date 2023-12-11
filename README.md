@@ -105,6 +105,14 @@ References to related literature can be found at the end of this Readme file.
 
 ## Section 04: Nonlinear Model Identification
 
+* Week 10:
+  * [Optimization-based parameter identification (DS4DS 4.01)](https://www.youtube.com/watch?v=Bn0SGV_5RMU&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=1)
+  * [Impact of the prediction horizon in data-driven modeling (DS4DS 4.02)](https://www.youtube.com/watch?v=OmeEf-GHdfQ&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=2)
+  * [Nonlinear prediction error method identification (DS4DS 4.03)](https://www.youtube.com/watch?v=dB0SY6tBPTU&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=3)
+  * [Global vs. local optima in nonlinear data-driven modeling (DS4DS 4.04)](https://www.youtube.com/watch?v=PIrwCp8m1Ow&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=4)
+  * [Identification of an unknown initial state (DS4DS 4.05)](https://www.youtube.com/watch?v=rCei6XlOv7A&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=5)
+  * [Utilizing constrained optimization for incorporating a priori knowledge (DS4DS 4.06)](https://www.youtube.com/watch?v=h_AtcsE2tS0&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=6)
+
 ## Section 05: Feature Engineering
 
 ## Section 06: Model Selection
