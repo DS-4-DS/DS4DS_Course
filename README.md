@@ -48,7 +48,7 @@ References to related literature can be found at the end of this Readme file.
 ## Section 02: Linear Model Identification
 * Week 4:
   * [Linear model identification: intro part 1/2 (DS4DS 2.01)](https://www.youtube.com/watch?v=oFVnPJbi7Tg&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=1)
-  * [Linear model identification: intro part 1/2 (DS4DS 2.02)](https://www.youtube.com/watch?v=H5bZ2to1ono&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=2)
+  * [Linear model identification: intro part 2/2 (DS4DS 2.02)](https://www.youtube.com/watch?v=H5bZ2to1ono&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=2)
   * [Linear least squares solution (DS4DS 2.03)](https://www.youtube.com/watch?v=1c1tMY0m3vE&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=3)
   * [Ordinary least squares: static example (DS4DS 2.04)](https://www.youtube.com/watch?v=Mm92nd9lkDc&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=4)
   * [Ordinary least squares: bias (DS4DS 2.05)](https://www.youtube.com/watch?v=hd9POUlZR-Q&list=PLg6FTHy3zJjzWOkG2cnJM_j6tKFyjLSy9&index=5)
@@ -104,6 +104,14 @@ References to related literature can be found at the end of this Readme file.
   * [The active set method 2 (DS4DS 3.21)](https://www.youtube.com/watch?v=c4N0oKvlp5s&list=PLg6FTHy3zJjws0hwWOa-cADy2aK5q_FM7&index=21)
 
 ## Section 04: Nonlinear Model Identification
+
+* Week 10:
+  * [Optimization-based parameter identification (DS4DS 4.01)](https://www.youtube.com/watch?v=Bn0SGV_5RMU&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=1)
+  * [Impact of the prediction horizon in data-driven modeling (DS4DS 4.02)](https://www.youtube.com/watch?v=OmeEf-GHdfQ&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=2)
+  * [Nonlinear prediction error method identification (DS4DS 4.03)](https://www.youtube.com/watch?v=dB0SY6tBPTU&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=3)
+  * [Global vs. local optima in nonlinear data-driven modeling (DS4DS 4.04)](https://www.youtube.com/watch?v=PIrwCp8m1Ow&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=4)
+  * [Identification of an unknown initial state (DS4DS 4.05)](https://www.youtube.com/watch?v=rCei6XlOv7A&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=5)
+  * [Utilizing constrained optimization for incorporating a priori knowledge (DS4DS 4.06)](https://www.youtube.com/watch?v=h_AtcsE2tS0&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=6)
 
 ## Section 05: Feature Engineering
 
