@@ -119,8 +119,6 @@ References to related literature can be found at the end of this Readme file.
 
 ## Section 07: Control
 
-## Section 08: Advanced Topics
-
 # Related literature
 * Data science and machine learning:
   * Y. S. Abu-Mostafa, M. Magdon-Ismail and H.-T. Lin. "Learning from data: A short course." AMLBook, 2012. ([URL](https://work.caltech.edu/telecourse))
