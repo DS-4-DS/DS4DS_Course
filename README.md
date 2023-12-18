@@ -15,7 +15,9 @@ This work is licensed under a
 
 You can find the video lectures on [YouTube](https://www.youtube.com/@UPB_DS4DS-bu8ec/playlists).
 
-The associated code (in the form of Jupyter Notebooks) can be found in the "notebooks" folder.
+The associated code (in the form of Jupyter Notebooks) can be found in the "notebooks" folder. In case a certain package is missing in your Julia version, you can simply add a cell before the first one containing the two code lines\
+`using Pkg`\
+`Pkg.add("name_of_package")`
 
 References to related literature can be found at the end of this Readme file.
 
