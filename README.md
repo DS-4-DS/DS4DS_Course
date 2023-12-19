@@ -114,6 +114,13 @@ References to related literature can be found at the end of this Readme file.
   * [Global vs. local optima in nonlinear data-driven modeling (DS4DS 4.04)](https://www.youtube.com/watch?v=PIrwCp8m1Ow&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=4)
   * [Identification of an unknown initial state (DS4DS 4.05)](https://www.youtube.com/watch?v=rCei6XlOv7A&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=5)
   * [Utilizing constrained optimization for incorporating a priori knowledge (DS4DS 4.06)](https://www.youtube.com/watch?v=h_AtcsE2tS0&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=6)
+ 
+* Week 11:
+  * [Neural ordinary differential equations - NODEs (DS4DS 4.07)](https://www.youtube.com/watch?v=s3YTiV4EBkg&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=7)
+  * [Sampled input data for NODE modeling (DS4DS 4.08)](https://www.youtube.com/watch?v=OhLC4bf8e50&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=8)
+  * [Hammerstein-Wiener models in NODEs (DS4DS 4.09)](https://www.youtube.com/watch?v=Kz_4tqW3FCM&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=9)
+  * [Extrapolation of data-driven dynamical models (DS4DS 4.10)](https://www.youtube.com/watch?v=FhqDpPmlypc&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=10)
+  * [Discrete-time nonlinear system identification (DS4DS 4.11)](https://www.youtube.com/watch?v=s0XxdbuQWFU&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=11)
 
 ## Section 05: Feature Engineering
 
