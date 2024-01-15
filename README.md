@@ -123,8 +123,21 @@ References to related literature can be found at the end of this Readme file.
   * [Discrete-time nonlinear system identification (DS4DS 4.11)](https://www.youtube.com/watch?v=s0XxdbuQWFU&list=PLg6FTHy3zJjyi-0pVsmA49erc-BvQvP7g&index=11)
 
 ## Section 05: Feature Engineering
+* Week 12:
+  * [Feature Engineering - Introduction (DS4DS 5.01)](https://www.youtube.com/watch?v=iAUNc1LT__U&list=PLg6FTHy3zJjxTq898AZKytAySDBe1VX-Y&index=1)
+  * [Manual feature selection using dictionaries (DS4DS 5.02)](https://www.youtube.com/watch?v=DfbN8EVLJ58&list=PLg6FTHy3zJjxTq898AZKytAySDBe1VX-Y&index=2)
+  * [Extracting linear features from data (DS4DS 5.03)](https://www.youtube.com/watch?v=bjbRHtwHKTw&list=PLg6FTHy3zJjxTq898AZKytAySDBe1VX-Y&index=3)
+  * [Feature engineering using autoencoders (DS4DS 5.04)](https://www.youtube.com/watch?v=4fArw2O0vVM&list=PLg6FTHy3zJjxTq898AZKytAySDBe1VX-Y&index=4)
+  * [The role of features in deep learning (DS4DS 5.05)](https://www.youtube.com/watch?v=6Hg9pIQEIO0&list=PLg6FTHy3zJjxTq898AZKytAySDBe1VX-Y&index=5)
 
 ## Section 06: Model Selection
+* Week 13:
+  * [Overfitting and the bias-variance tradeoff (DS4DS 6.01)](https://www.youtube.com/watch?v=jMg4h1G0cyg&list=PLg6FTHy3zJjzvsyH8xgDerpycWUBsGK0U&index=1)
+  * [Cross validation (DS4DS 6.02)](https://www.youtube.com/watch?v=MxTO4r8H2oI&list=PLg6FTHy3zJjzvsyH8xgDerpycWUBsGK0U&index=2)
+  * [Sparsity and the L1 norm (DS4DS 6.03)](https://www.youtube.com/watch?v=FbRTXh5r270&list=PLg6FTHy3zJjzvsyH8xgDerpycWUBsGK0U&index=3)
+  * [Subdifferentials of non-differentiable functions (DS4DS 6.04)](https://www.youtube.com/watch?v=aRHgvxNG7_o&list=PLg6FTHy3zJjzvsyH8xgDerpycWUBsGK0U&index=4)
+  * [The LASSO algorithm for model selection (DS4DS 6.05)](https://www.youtube.com/watch?v=0aYlO5FoRQ4&list=PLg6FTHy3zJjzvsyH8xgDerpycWUBsGK0U&index=5)
+  * [Sparse identification of nonlinear dynamics (SINDy) (DS4DS 6.06)](https://www.youtube.com/watch?v=0wF3zvdvgK4&list=PLg6FTHy3zJjzvsyH8xgDerpycWUBsGK0U&index=6)
 
 ## Section 07: Control
 
