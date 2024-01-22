@@ -141,7 +141,7 @@ References to related literature can be found at the end of this Readme file.
 
 ## Section 07: Control
 * Week 14:
-  * [Optimal control - Introduction (DS4DS 7.01](https://www.youtube.com/watch?v=6GSHAoLMsXs&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei)
+  * [Optimal control - Introduction (DS4DS 7.01)](https://www.youtube.com/watch?v=6GSHAoLMsXs&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei)
   * [Optimal control in discrete time (DS4DS 7.02)](https://www.youtube.com/watch?v=KuAbISxSJQI&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=2)
   * [Optimal control of linear systems 1 - Dynamics (DS4DS 7.03)](https://www.youtube.com/watch?v=FKn9lJKVj1E&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=3)
   * [Optimal control of linear systems 2 - Objective function (DS4DS 7.04)](https://www.youtube.com/watch?v=3ZTWuTV55Kk&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=4)
