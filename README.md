@@ -140,7 +140,17 @@ References to related literature can be found at the end of this Readme file.
   * [Sparse identification of nonlinear dynamics (SINDy) (DS4DS 6.06)](https://www.youtube.com/watch?v=0wF3zvdvgK4&list=PLg6FTHy3zJjzvsyH8xgDerpycWUBsGK0U&index=6)
 
 ## Section 07: Control
-
+* Week 14:
+  * [Optimal control - Introduction (DS4DS 7.01](https://www.youtube.com/watch?v=6GSHAoLMsXs&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei)
+  * [Optimal control in discrete time (DS4DS 7.02)](https://www.youtube.com/watch?v=KuAbISxSJQI&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=2)
+  * [Optimal control of linear systems 1 - Dynamics (DS4DS 7.03)](https://www.youtube.com/watch?v=FKn9lJKVj1E&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=3)
+  * [Optimal control of linear systems 2 - Objective function (DS4DS 7.04)](https://www.youtube.com/watch?v=3ZTWuTV55Kk&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=4)
+  * [Optimal control of linear systems 3 - Example (DS4DS 7.05)](https://www.youtube.com/watch?v=131q4mBEid8&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=5)
+  * [Linear model predictive control (DS4DS 7.06)](https://www.youtube.com/watch?v=F5Y-nFsRKts&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=6)
+  * [Data-driven model predictive control using DMD (DS4DS 7.07)](https://www.youtube.com/watch?v=Z63Xl_Xy3Ts&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=7)
+  * [Differential predictive control: introduction (DS4DS 7.08)](https://www.youtube.com/watch?v=eZLwms4nRu8&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=8)
+  * [Differential predictive control: global vs. local optima (DS4DS 7.09)](https://www.youtube.com/watch?v=-D6puRAMTww&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=9)
+ 
 # Related literature
 * Data science and machine learning:
   * Y. S. Abu-Mostafa, M. Magdon-Ismail and H.-T. Lin. "Learning from data: A short course." AMLBook, 2012. ([URL](https://work.caltech.edu/telecourse))
