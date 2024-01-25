@@ -42,10 +42,10 @@ References to related literature can be found at the end of this Readme file.
   * [Discrete dynamical systems (DS4DS 1.15)](https://www.youtube.com/watch?v=Ew3y1SGlVQc)
    
 * Week 3:
-  * [Partial differential equations 1 (DS4DS 1.16)](https://www.youtube.com/watch?v=O0aNsfJ-peg)
-  * [Partial differential equations 2 (DS4DS 1.17)](https://www.youtube.com/watch?v=_qM3NP4sgO8)
-  * [Partial differential equations 3 (DS4DS 1.18)](https://www.youtube.com/watch?v=AJz53LGRa1s)
-  * [Partial differential equations 4 (DS4DS 1.19)](https://www.youtube.com/watch?v=c_jUfFBBvpQ)
+  * [Partial differential equations: Introduction (DS4DS 1.16)](https://www.youtube.com/watch?v=O0aNsfJ-peg)
+  * [Partial differential equations: Derivation of the heat equation (DS4DS 1.17)](https://www.youtube.com/watch?v=_qM3NP4sgO8)
+  * [Partial differential equations: Spatial discretization (DS4DS 1.18)](https://www.youtube.com/watch?v=AJz53LGRa1s)
+  * [Partial differential equations: Discretization in space and time (DS4DS 1.19)](https://www.youtube.com/watch?v=c_jUfFBBvpQ)
 
 ## Section 02: Linear Model Identification
 * Week 4:
