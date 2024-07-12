@@ -150,6 +150,14 @@ References to related literature can be found at the end of this Readme file.
   * [Data-driven model predictive control using DMD (DS4DS 7.07)](https://www.youtube.com/watch?v=Z63Xl_Xy3Ts&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=7)
   * [Differential predictive control: introduction (DS4DS 7.08)](https://www.youtube.com/watch?v=eZLwms4nRu8&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=8)
   * [Differential predictive control: global vs. local optima (DS4DS 7.09)](https://www.youtube.com/watch?v=-D6puRAMTww&list=PLg6FTHy3zJjzJ8Ddui6ZwQpdMZeoqG1ei&index=9)
+
+## Section 08: Koopman operator
+* [An introduction to the Koopman Operator (DS4DS 8.01)](https://www.youtube.com/watch?v=bPvLRppwB9o&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=1)
+* [Koopman operator: Spectral decomposition 1 (DS4DS 8.02)](https://www.youtube.com/watch?v=cbOFlNlJGI8&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=2)
+* [Koopman operator: Spectral decomposition 2 (DS4DS 8.03)](https://www.youtube.com/watch?v=ZejyI4vYYE4&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=3)
+* [Koopman: Observable functions (DS4DS 8.04)](https://www.youtube.com/watch?v=x8usQJ-u5-o&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=4)
+* [Extended Dynamic Mode Decomposition 1 (DS4DS 8.05)](https://www.youtube.com/watch?v=GFk8TXJ3IOc&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=5)
+* [Extended Dynamic Mode Decomposition 2 (DS4DS 8.06)](https://www.youtube.com/watch?v=lvRhlY22jWw&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=6)
  
 # Related literature
 * Data science and machine learning:
