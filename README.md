@@ -156,8 +156,14 @@ References to related literature can be found at the end of this Readme file.
 * [Koopman operator: Spectral decomposition 1 (DS4DS 8.02)](https://www.youtube.com/watch?v=cbOFlNlJGI8&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=2)
 * [Koopman operator: Spectral decomposition 2 (DS4DS 8.03)](https://www.youtube.com/watch?v=ZejyI4vYYE4&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=3)
 * [Koopman: Observable functions (DS4DS 8.04)](https://www.youtube.com/watch?v=x8usQJ-u5-o&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=4)
-* [Extended Dynamic Mode Decomposition 1 (DS4DS 8.05)](https://www.youtube.com/watch?v=GFk8TXJ3IOc&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=5)
-* [Extended Dynamic Mode Decomposition 2 (DS4DS 8.06)](https://www.youtube.com/watch?v=lvRhlY22jWw&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=6)
+* [Extended Dynamic Mode Decomposition 1 - Finite dimensional subspaces (DS4DS 8.05)](https://www.youtube.com/watch?v=GFk8TXJ3IOc&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=5)
+* [Extended Dynamic Mode Decomposition 2 - The EDMD algorithm (DS4DS 8.06)](https://www.youtube.com/watch?v=lvRhlY22jWw&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=6)
+* [Extended Dynamic Mode Decomposition 3 - Koopman eigenfunctions (DS4DS 8.07)](https://www.youtube.com/watch?v=ydLNaoyXwm0&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=7)
+* [Extended Dynamic Mode Decomposition 4 - Koopman modes & Summary (DS4DS 8.08)](https://www.youtube.com/watch?v=lnNR2jYyKxI&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=8)
+* [Dynamic Mode Decomposition as a special case of EDMD (DS4DS 8.09)](https://www.youtube.com/watch?v=mHIy4II-aO4&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=9)
+* [kernel EDMD 1 - Motivation & kernel trick (DS4DS 8.10)](https://www.youtube.com/watch?v=X3JWOtz4peI&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=10)
+* [kernel EDMD 2 - Main algorithm (DS4DS 8.11)](https://www.youtube.com/watch?v=kAXRZrIxxQ0&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=11)
+* [kernel EDMD 3 - Koopman eigenfunctions and modes (DS4DS 8.12)](https://www.youtube.com/watch?v=b1E0fdCK3i0&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=12)
  
 # Related literature
 * Data science and machine learning:
