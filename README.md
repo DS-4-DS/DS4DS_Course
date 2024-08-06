@@ -164,6 +164,8 @@ References to related literature can be found at the end of this Readme file.
 * [kernel EDMD 1 - Motivation & kernel trick (DS4DS 8.10)](https://www.youtube.com/watch?v=X3JWOtz4peI&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=10)
 * [kernel EDMD 2 - Main algorithm (DS4DS 8.11)](https://www.youtube.com/watch?v=kAXRZrIxxQ0&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=11)
 * [kernel EDMD 3 - Koopman eigenfunctions and modes (DS4DS 8.12)](https://www.youtube.com/watch?v=b1E0fdCK3i0&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=12)
+* [The Koopman Generator (DS4DS 8.13)](https://www.youtube.com/watch?v=tUGn1U9mlHw&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=13)
+* [Extended DMD for the Koopman Generator (DS4DS 8.14)](https://www.youtube.com/watch?v=8bOerAx_MzE&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=14)
  
 # Related literature
 * Data science and machine learning:
