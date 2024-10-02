@@ -21,6 +21,10 @@ The associated [**Julia**](https://julialang.org/) code (in the form of Jupyter 
 
 References to related literature can be found at the end of this Readme file.
 
+## Section 00: Course introduction
+* [Data Science for Dynamical Systems Course Introduction 1 (DS4DS 0.01)](https://www.youtube.com/watch?v=KftMLQquoPo&list=PLg6FTHy3zJjzqJ76VHF9bMGEKrKR_KgNC&index=1)
+* [Data Science for Dynamical Systems Course Introduction 2 (DS4DS 0.02)](https://www.youtube.com/watch?v=ihVYAnBUAaA&list=PLg6FTHy3zJjzqJ76VHF9bMGEKrKR_KgNC&index=2)
+
 ## Section 01: Dynamical Modeling Fundamentals
 * Week 1:
   * [Solution of scalar linear autonomous ODEs (DS4DS 1.01)](https://www.youtube.com/watch?v=48FVrkGrJkA&list=PLg6FTHy3zJjxvWhKhME-R6z_WaX5MQ-dH&index=1)
