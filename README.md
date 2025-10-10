@@ -15,11 +15,8 @@ This work is licensed under a
 
 You can find the video lectures on [**YouTube**](https://www.youtube.com/@DataScience4DynamicalSystems/playlists).
 
-The associated [**Julia**](https://julialang.org/) code (in the form of Jupyter Notebooks) can be found in the "notebooks" folder. In case a certain package is missing in your Julia version, you can simply add a cell before the first one containing the two code lines\
-`using Pkg`\
-`Pkg.add("name_of_package")`
+The associated [**Julia**](https://julialang.org/) code (in the form of Jupyter Notebooks) can be found in the "lecture" and "exercise" folders. The lecture folder content is closely related to the above-linked YouTube lecture series while the exercise notebooks cover additional tasks incl. sample solutions as self-learning options. Additional information on the notebook / Julia usage as well as references to related literature can be found at the end of this Readme file.
 
-References to related literature can be found at the end of this Readme file.
 
 ## Section 00: Course introduction
 * [Data Science for Dynamical Systems Course Introduction 1 (DS4DS 0.01)](https://www.youtube.com/watch?v=KftMLQquoPo&list=PLg6FTHy3zJjzqJ76VHF9bMGEKrKR_KgNC&index=1)
@@ -170,6 +167,36 @@ References to related literature can be found at the end of this Readme file.
 * [kernel EDMD 3 - Koopman eigenfunctions and modes (DS4DS 8.12)](https://www.youtube.com/watch?v=b1E0fdCK3i0&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=12)
 * [The Koopman Generator (DS4DS 8.13)](https://www.youtube.com/watch?v=tUGn1U9mlHw&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=13)
 * [Extended DMD for the Koopman Generator (DS4DS 8.14)](https://www.youtube.com/watch?v=8bOerAx_MzE&list=PLg6FTHy3zJjy9GLiVJlxyLSZeSCTVnYtz&index=14)
+
+
+# Using the Jupyter notebooks with Julia Project/Manifest 
+
+This repository ships a Julia `Project.toml` and `Manifest.toml` at the root to lock package versions for reproducible runs. Please use this environment when opening any of the notebooks.
+
+Prerequisites:
+- Julia 1.11+ installed
+- Either VS Code with the Julia and Jupyter extensions, or JupyterLab/Notebook installed
+
+Option A — VS Code (recommended):
+1) Open the folder `DS4DS_Course` in VS Code.
+2) Start the Julia REPL: View → Command Palette → "Julia: Start REPL".
+3) Ensure the project is active in the REPL (first time only):
+  - The status bar should show the environment at the workspace root. If not, run:
+    - `import Pkg; Pkg.activate("."); Pkg.instantiate()`
+4) Open any `.ipynb` in `lecture/` or `exercises/`.
+5) In the notebook, pick the kernel "Julia (Current Environment)". The first run may precompile packages.
+
+Option B — Classic Jupyter (Notebook/Lab):
+1) Open Windows PowerShell and navigate to the repo root:
+  - `cd c:\Git\DS4DS_Course`
+2) Launch Jupyter bound to this project and instantiate packages on first run:
+  - `julia --project=. -e "using Pkg; Pkg.instantiate(); using IJulia; IJulia.notebook(dir=pwd())"`
+  - If you prefer JupyterLab: `julia --project=. -e "using Pkg; Pkg.instantiate(); using IJulia; IJulia.jupyterlab(dir=pwd())"`
+
+Notes and troubleshooting:
+- If the Julia kernel is not listed in Jupyter, register it once: `julia -e "using Pkg; Pkg.add(\"IJulia\"); using IJulia; installkernel(\"Julia DS4DS\")"`
+- Do not run `Pkg.update()` unless you intentionally want newer package versions; the provided Manifest pins versions for this course.
+- The first run may take a few minutes due to precompilation—this is expected.
  
 # Related literature
 * Data science and machine learning:
