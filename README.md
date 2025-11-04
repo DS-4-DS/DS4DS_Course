@@ -174,7 +174,7 @@ The associated [**Julia**](https://julialang.org/) code (in the form of Jupyter 
 This repository ships a Julia `Project.toml` and `Manifest.toml` at the root to lock package versions for reproducible runs. Please use this environment when opening any of the notebooks.
 
 Prerequisites:
-- Julia 1.11+ installed
+- Julia 1.12+ installed
 - Either VS Code with the Julia and Jupyter extensions, or JupyterLab/Notebook installed
 
 Option A — VS Code (recommended):
