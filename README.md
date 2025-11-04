@@ -182,7 +182,7 @@ Option A — VS Code (recommended):
 2) Start the Julia REPL: View → Command Palette → "Julia: Start REPL".
 3) Ensure the project is active in the REPL (first time only):
   - The status bar should show the environment at the workspace root. If not, run:
-    - `import Pkg; Pkg.activate("."); Pkg.instantiate()`
+    - `import Pkg; Pkg.activate("path/to/the/project"); Pkg.instantiate()`
 4) Open any `.ipynb` in `lecture/` or `exercises/`.
 5) In the notebook, pick the kernel "Julia (Current Environment)". The first run may precompile packages.
 
